@@ -55,6 +55,7 @@ Phase 0 按定位规则标为 Skip，不代表已验证工具环境；首次实�
 | 2026-09-30 | 01-math-foundations/06-probability-and-distributions | 3/3 | 能区分 PMF/PDF、计算条件概率、期望与方差，并解释稳定 softmax、交叉熵和对数概率；条件概率分母、方差求和及 softmax 排序曾出错，已订正。导师运行手写函数、抽样模拟和 PyTorch 对照；尚未独立实现。[学习笔记](Note/phase-01-lesson-06-probability-and-distributions.md) |
 | 2026-09-30 | 01-math-foundations/07-bayes-theorem | 3/3 | 能用基准率解释阳性后约 0.98% 的患病概率、计算垃圾邮件后验与 Beta 顺序更新；健康人误报率起初误用 0.99，垃圾邮件后验方向起初判断偏低，均已订正。导师运行标准库分类器及已安装的 scikit-learn 对照；尚未独立编写分类器。[学习笔记](Note/phase-01-lesson-07-bayes-theorem.md) |
 | 2026-09-30 | 01-math-foundations/08-optimization | 3/3 | 能计算梯度下降、动量和 Adam 首步，解释小批次、余弦退火与鞍点；题设学习率 1 曾误代为 0.1，已订正。导师运行手写优化器与 PyTorch 对照；尚未独立实现。[学习笔记](Note/phase-01-lesson-08-optimization.md) |
+| 2026-10-01 | 01-math-foundations/09-information-theory | 3/3 | 能计算熵、交叉熵、KL、困惑度与互信息；熵的加权求和、KL 变化方向及 P=Q 时 KL 为零曾答错，均已订正。写出困惑度的 Python 表达式；导师运行手写程序与 NumPy 对照，尚未独立实现完整函数。[学习笔记](Note/phase-01-lesson-09-information-theory.md) |
 
 ## Review queue
 
